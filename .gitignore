@@ -1,0 +1,64 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# OS-specific
+Thumbs.db
+.directory
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Personal/Private Files
+*.docx
+*.doc
+*.pdf
+*.zip
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.flac
+
+# Keep these files even if they're usually excluded
+!CILS_B1_32DAY_EXAM_PREP/**/*.md
+!CILS_Strategy/**/*.md
+!B1_Exam_Prep/**/*.md
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+.env.local
+.env.*.local
