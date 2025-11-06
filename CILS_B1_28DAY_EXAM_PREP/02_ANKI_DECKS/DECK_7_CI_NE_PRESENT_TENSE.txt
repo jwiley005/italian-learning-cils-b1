@@ -1,0 +1,171 @@
+# DECK 7: CI/NE + PRESENT TENSE CONJUGATIONS (15 Cards)
+# Purpose: Fill grammar gaps for CILS B1 cloze test
+# Priority: ⭐⭐⭐⭐⭐ CRITICAL
+# Format: Front | Back | Example | Grammar Note
+
+---
+
+## PART A: CI/NE PARTICLES (8 cards)
+
+### Card 1: CI - Locative (there/to that place)
+Front: Vai al cinema? → Sì, ____ vado stasera.
+Back: ci
+Example: Sì, CI vado stasera. (Yes, I'm going there tonight.)
+Grammar: "Ci" replaces place expressions (al cinema → ci)
+
+### Card 2: CI - With verbs of being/staying
+Front: Quanto tempo ____ vuole per arrivare? (How long does it take?)
+Back: ci
+Example: Quanto tempo CI vuole? (How long does it take?)
+Grammar: "CI vuole" = it takes (idiomatic, must use "ci")
+
+### Card 3: CI - With pensare (to think about)
+Front: Pensi alla tua famiglia? → Sì, ____ penso sempre.
+Back: ci
+Example: Sì, CI penso sempre. (Yes, I always think about it/them.)
+Grammar: "Pensare a" → "pensarci" (to think about something → to think about it)
+
+### Card 4: CI - Replacement for "in/a + place"
+Front: Abiti a Roma? → Sì, ____ abito da due anni.
+Back: ci
+Example: Sì, CI abito da due anni. (Yes, I've lived there for two years.)
+Grammar: "Abitare a Roma" → "abitarci" (to live in Rome → to live there)
+
+### Card 5: NE - Partitive (some/any of it)
+Front: Quanti fratelli hai? → ____ ho due.
+Back: Ne
+Example: NE ho due. (I have two of them.)
+Grammar: "Ne" replaces quantity expressions (fratelli → ne)
+
+### Card 6: NE - With quantities/numbers
+Front: Vuoi del caffè? → Sì, ____ voglio un po'.
+Back: ne
+Example: Sì, NE voglio un po'. (Yes, I want some of it.)
+Grammar: "Del caffè" → "ne" (some coffee → some of it)
+
+### Card 7: NE - Origin/from there
+Front: Vieni da Milano? → Sì, ____ vengo.
+Back: ne
+Example: Sì, NE vengo. (Yes, I come from there.)
+Grammar: "Da Milano" → "ne" (from Milan → from there)
+
+### Card 8: NE - With parlare (to talk about)
+Front: Parliamo del problema? → Sì, ____ parliamo subito.
+Back: ne
+Example: Sì, NE parliamo subito. (Yes, let's talk about it right away.)
+Grammar: "Parlare di" → "parlarne" (to talk about something → to talk about it)
+
+---
+
+## PART B: PRESENT TENSE REGULAR VERBS (7 cards)
+
+### Card 9: -ARE verbs (parlare - to speak)
+Front: Io ____ italiano ogni giorno. (parlare)
+Back: parlo
+Example: Io PARLO italiano ogni giorno. (I speak Italian every day.)
+Grammar: -ARE verbs: -o, -i, -a, -iamo, -ate, -ano
+
+### Card 10: -ERE verbs (scrivere - to write)
+Front: Tu ____ una email al comune. (scrivere)
+Back: scrivi
+Example: Tu SCRIVI una email al comune. (You write an email to the municipality.)
+Grammar: -ERE verbs: -o, -i, -e, -iamo, -ete, -ono
+
+### Card 11: -IRE verbs (partire - to leave/depart)
+Front: Lui ____ domani mattina. (partire)
+Back: parte
+Example: Lui PARTE domani mattina. (He leaves tomorrow morning.)
+Grammar: -IRE verbs: -o, -i, -e, -iamo, -ite, -ono
+
+### Card 12: -IRE verbs with -ISC- (capire - to understand)
+Front: Noi non ____ la domanda. (capire)
+Back: capiamo
+Example: Noi non CAPIAMO la domanda. (We don't understand the question.)
+Grammar: Some -IRE verbs add -ISC- (capisco, capisci, capisce, capiamo, capite, capiscono)
+
+### Card 13: -ARE verbs (cercare - to search/look for)
+Front: Loro ____ un appartamento in centro. (cercare)
+Back: cercano
+Example: Loro CERCANO un appartamento in centro. (They're looking for an apartment downtown.)
+Grammar: -ARE verbs, 3rd person plural: -ano
+
+### Card 14: -ERE verbs (leggere - to read)
+Front: Lei ____ il giornale ogni mattina. (leggere)
+Back: legge
+Example: Lei LEGGE il giornale ogni mattina. (She reads the newspaper every morning.)
+Grammar: -ERE verbs, 3rd person singular: -e
+
+### Card 15: -IRE verbs with -ISC- (finire - to finish)
+Front: Io ____ il lavoro alle cinque. (finire)
+Back: finisco
+Example: Io FINISCO il lavoro alle cinque. (I finish work at five.)
+Grammar: -IRE verbs with -ISC-, 1st person: -isco (finisco, finisci, finisce)
+
+---
+
+## IMPORT INSTRUCTIONS
+
+### For Anki Desktop:
+1. Copy this entire section below into a text file named "Deck_7_Ci_Ne_Present.txt"
+2. Format: Use TAB between Front and Back
+3. In Anki: File → Import → Select file → Choose deck "CILS Grammar Essentials"
+4. Field separator: Tab
+5. Import
+
+### Quick Import Format (Tab-separated):
+```
+Vai al cinema? → Sì, ____ vado stasera.	ci (CI vado stasera)
+Quanto tempo ____ vuole?	ci (CI vuole)
+Pensi alla famiglia? → Sì, ____ penso sempre.	ci (CI penso)
+Abiti a Roma? → Sì, ____ abito da due anni.	ci (CI abito)
+Quanti fratelli hai? → ____ ho due.	Ne (NE ho due)
+Vuoi del caffè? → Sì, ____ voglio un po'.	ne (NE voglio)
+Vieni da Milano? → Sì, ____ vengo.	ne (NE vengo)
+Parliamo del problema? → Sì, ____ parliamo.	ne (NE parliamo)
+Io ____ italiano ogni giorno. (parlare)	parlo
+Tu ____ una email. (scrivere)	scrivi
+Lui ____ domani. (partire)	parte
+Noi non ____ la domanda. (capire)	capiamo
+Loro ____ un appartamento. (cercare)	cercano
+Lei ____ il giornale. (leggere)	legge
+Io ____ il lavoro alle cinque. (finire)	finisco
+```
+
+---
+
+## STUDY PRIORITY
+
+**When to Learn These Cards**:
+- Week 1: Days 1-3 (add to daily Anki review)
+- These 15 cards fill critical grammar gaps
+- Priority: Same as Deck 4 (Grammar Cloze Essentials)
+
+**CI vs NE Quick Rule**:
+- **CI** = place/location or idiomatic expressions (there, about it with pensare)
+- **NE** = quantity/origin (some of it, from there, about it with parlare)
+
+**Present Tense Quick Rule**:
+- **-ARE**: -o, -i, -a, -iamo, -ate, -ano (parlare → parlo, parli, parla...)
+- **-ERE**: -o, -i, -e, -iamo, -ete, -ono (scrivere → scrivo, scrivi, scrive...)
+- **-IRE**: -o, -i, -e, -iamo, -ite, -ono (partire → parto, parti, parte...)
+- **-IRE (with -ISC-)**: -isco, -isci, -isce, -iamo, -ite, -iscono (capire → capisco, capisci, capisce...)
+
+---
+
+## WHY THESE 15 CARDS?
+
+**Grammar Gap Analysis** (from Opus review):
+1. Original Deck 4 coverage: Indefinite articles, prepositions, relative pronouns, direct/indirect pronouns ✅
+2. **Missing**: CI/NE particles (8 cards added) ← Tested 1-2 times per exam
+3. **Missing**: Regular present tense conjugations (7 cards added) ← Tested 1 time per exam
+
+**Estimated Impact**: +1-2 points on grammar section (increases from 9/14 to 10-11/14)
+
+**Total Anki Cards Now**: 332 + 15 = **347 cards**
+
+---
+
+**Document Version**: 1.0
+**Created**: November 6, 2025
+**Priority**: ⭐⭐⭐⭐⭐ CRITICAL
+**Estimated Study Time**: 30-45 minutes (spread over Week 1, Days 1-3)

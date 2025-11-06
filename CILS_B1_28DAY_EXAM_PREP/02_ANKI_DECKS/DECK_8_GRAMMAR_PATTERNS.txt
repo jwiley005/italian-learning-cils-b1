@@ -1,0 +1,111 @@
+# CILS B1 Grammar Patterns - Anki Deck
+# Format: Front [TAB] Back
+# Total Cards: 60
+# Focus: High-frequency cloze test patterns
+
+## PREPOSITIONS (20 cards)
+
+Vado ____ Roma domani. (a / in / da)	a (cities use "a")
+Vado ____ Italia quest'estate. (a / in / da)	in (countries use "in")
+Vengo ____ Milano. (a / in / da)	da (origin uses "da")
+Abito ____ Firenze. (a / in / da)	a (live in city uses "a")
+Abito ____ via Garibaldi. (a / in / da)	in (live in street uses "in")
+La casa ____ miei genitori. (del / dei / di)	dei (di + i = dei)
+Il libro è ____ tavolo. (sul / nel / al)	sul (on = su + il)
+Vado ____ medico. (al / dal / nel)	dal (to person's place = da + il)
+Parlo ____ Maria. (di / con / a)	con (talk WITH = con)
+Parlo ____ politica. (di / con / a)	di (talk ABOUT = di)
+Penso ____ te. (di / a / con)	a (think ABOUT person = a)
+Penso ____ partire. (di / a / con)	di (intend to = di + infinitive)
+Il libro ____ Marco. (di / da / per)	di (of/belonging to = di)
+Andiamo ____ scuola. (a / in / da)	a (go to school = a)
+Sono ____ casa. (a / in / da)	a (at home = a)
+Abito ____ centro. (a / in / nel)	in (in center = in)
+La macchina ____ mio padre. (del / di / da)	di (my father's = di)
+Lavoro ____ banca. (a / in / nella)	in (work in bank = in)
+Studio ____ università. (a / all' / in)	all' (university = a + l')
+Vado ____ piedi. (a / in / con)	a (on foot = a)
+
+## DIRECT OBJECT PRONOUNS (15 cards)
+
+Vedi Maria? Sì, ____ vedo. (lo / la / le)	la (Maria = feminine)
+Compri il libro? Sì, ____ compro. (lo / la / li)	lo (il libro = masculine)
+Mangi le mele? Sì, ____ mangio. (lo / la / le)	le (le mele = feminine plural)
+Prendi i libri? Sì, ____ prendo. (lo / li / le)	li (i libri = masculine plural)
+Hai visto Maria? Sì, ____ ho vista. (la / l' / le)	l' (before vowel, agrees: vista)
+Hai comprato i libri? Sì, ____ ho comprati. (lo / li / le)	li (agrees: comprati)
+Hai mangiato le mele? Sì, ____ ho mangiate. (lo / la / le)	le (agrees: mangiate)
+Vuoi vedere Maria? Sì, ____ voglio vedere. (la / lo / le)	la (before infinitive: optional position)
+Posso chiamare Marco? Sì, puoi chiamar____. (lo / la / li)	lo (after infinitive: attached)
+Maria ____ chiama ogni giorno. (mi / ti / ci)	mi (she calls ME)
+____ vedo domani. (Ti / Vi / Ci)	Ti (I see YOU tomorrow)
+Marco ____ saluta sempre. (ci / vi / li)	ci (he greets US)
+Non ____ sopporto! (lo / la / li)	lo (I can't stand IT/HIM)
+____ conosco bene. (La / Le / Li)	La (formal YOU = La)
+Dove metti il libro? ____ metto sul tavolo. (Lo / La / Li)	Lo (il libro = lo)
+
+## INDIRECT OBJECT PRONOUNS (10 cards)
+
+Telefono a Marco. ____ telefono. (Lo / Gli / Le)	Gli (to him = gli)
+Scrivo a Maria. ____ scrivo. (La / Gli / Le)	Le (to her = le)
+Do il libro a loro. ____ do il libro. (Gli / Li / Loro)	Gli (to them = gli, NOT loro!)
+Parli a me? Sì, ____ parlo. (mi / ti / ci)	ti (to you = ti)
+Porta un caffè a noi. ____ porta un caffè. (Ci / Vi / Gli)	Ci (to us = ci)
+Dai il libro a lui? Sì, ____ do il libro. (lo / gli / le)	gli (to him = gli)
+Racconti la storia a lei? Sì, ____ racconto la storia. (la / gli / le)	le (to her = le)
+Compri un regalo a loro? Sì, ____ compro un regalo. (li / gli / loro)	gli (to them = gli)
+____ piace il caffè? (Ti / Ci / Gli)	Ti (Do YOU like = ti piace)
+Non ____ interessa. (mi / ti / si)	mi (It doesn't interest ME = mi)
+
+## DOUBLE OBJECT PRONOUNS (5 cards)
+
+Mi dai il libro? Sì, ____ do. (te lo / me lo / glielo)	te lo (to you + it = te lo)
+Gli porti il caffè? Sì, ____ porto. (glielo / ce lo / ve lo)	glielo (to him + it = glielo, attached!)
+Ci mandi le foto? Sì, ____ mando. (ve le / ce le / gliele)	ce le (to us + them = ce le)
+Ti compro la torta. ____ compro. (Te la / Me la / Gliela)	Te la (to you + it[fem] = te la)
+Le do i soldi. ____ do. (Glieli / Ce li / Ve li)	Glieli (to her + them[masc] = glieli)
+
+## PARTICLES CI AND NE (10 cards)
+
+Vai a Roma? Sì, ____ vado. (ci / ne / la)	ci (there = ci)
+Sei stato in Sicilia? No, non ____ sono mai stato. (ci / ne / la)	ci (there = ci)
+Quanti libri hai? ____ ho tre. (Ci / Ne / Li)	Ne (of them = ne)
+Vuoi del caffè? Sì, ____ prendo un po'. (ci / ne / lo)	ne (some = ne)
+Parliamo di politica? Sì, ____ parliamo spesso. (ci / ne / la)	ne (about it = ne)
+Hai comprato delle mele? Sì, ____ ho comprate tre. (le / ne / ci)	ne (agrees: comprate)
+Quante sedie ci sono? ____ sono dieci. (Ci / Ne / Ce ne)	Ce ne (ci + ne = ce ne)
+Pensi a Maria? Sì, ____ penso sempre. (ci / ne / la)	ci (about her = ci, after "pensare a")
+Hai bisogno di soldi? No, non ____ ho bisogno. (ci / ne / li)	ne (of them = ne, after "bisogno di")
+Vieni al cinema? Sì, ____ vengo. (ci / ne / lo)	ci (there = ci)
+
+## INDEFINITES (12 cards)
+
+____ giorno vado al lavoro. (Ogni / Tutti / Ognuno)	Ogni (every = ogni + SINGULAR)
+____ gli studenti sono bravi. (Ogni / Tutti / Ognuno)	Tutti (all = tutti + ARTICLE + PLURAL)
+____ può fare quello che vuole. (Ogni / Tutti / Ognuno)	Ognuno (everyone = ognuno, NO noun after!)
+Ho ____ problema. (qualche / alcuni / ogni)	qualche (some = qualche + SINGULAR)
+Ci sono ____ errori. (qualche / alcuni / ogni)	alcuni (some = alcuni + PLURAL)
+____ volta vado al cinema. (Qualche / Alcune / Ogni)	Qualche (sometimes = qualche volta)
+____ le persone sono gentili. (Ogni / Tutte / Ognuna)	Tutte (all = tutte + ARTICLE + PLURAL, feminine)
+____ città è bella. (Ogni / Tutte / Ognuna)	Ogni (every = ogni + SINGULAR)
+Non c'è ____ problema. (nessuno / alcuni / ogni)	nessuno (no = nessuno + SINGULAR)
+____ i bambini giocano. (Ogni / Tutti / Ognuno)	Tutti (all = tutti + i + PLURAL)
+____ giocacome vuole. (Ogni / Tutti / Ognuno)	Ognuno (everyone = pronoun, NO noun)
+Conosco ____ persone qui. (qualche / alcune / ogni)	alcune (some = alcune + PLURAL)
+
+## RELATIVE PRONOUNS & VERB AGREEMENT (8 cards)
+
+La casa ____ vedo è bella. (che / cui / quale)	che (that = che, most common)
+La persona di ____ parlo è Marco. (che / cui / quale)	cui (after preposition = cui)
+Il libro ____ ho letto è bello. (che / cui / quale)	che (that I read = che)
+La città in ____ vivo è Roma. (che / cui / quale)	cui (in which = in cui)
+Il pianeta che ci ____ (circonda / circondano)	circonda (il pianeta = singular!)
+Gli amici che ____ (viene / vengono) sono italiani.	vengono (gli amici = plural!)
+La ragazza che ____ (lavora / lavorano) è Maria.	lavora (la ragazza = singular!)
+I libri che ____ (legge / leggono) sono interessanti.	leggono (i libri = plural! Watch out: "che" can confuse!)
+
+## End of Deck
+# Total: 60 cards
+# Estimated study time: 30 minutes to learn all
+# Review daily for retention
+# Focus on patterns, not memorization!
