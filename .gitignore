@@ -54,6 +54,13 @@ wheels/
 !CILS_Strategy/**/*.md
 !B1_Exam_Prep/**/*.md
 
+# Allow key study materials for Opus review
+!CILS_Strategy/Percorso_CILS_B1_Cittadinanza_Full_Book_OCR.pdf
+!CILS_Strategy/Percorso_CILS_B1_Cittadinanza_Full_Book_OCR.txt
+!CILS_Strategy/Italian\ Grammar\ in\ Practice/IGP\ Chapter\ 13\ -\ Direct\ Object\ Pronouns.pdf
+!CILS_Strategy/Italian\ Grammar\ in\ Practice/IGP\ Chapter\ 14\ -\ Prepositions_OCR.pdf
+!CILS_Strategy/Italian\ Grammar\ in\ Practice/IGP\ Chapter\ 23\ -\ Relative\ Pronouns_OCR.pdf
+
 # Node modules (if any)
 node_modules/
 npm-debug.log
