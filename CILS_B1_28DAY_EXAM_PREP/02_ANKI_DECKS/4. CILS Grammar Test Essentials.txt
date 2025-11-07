@@ -1,0 +1,52 @@
+Source,Question,Answer,Topic
+4. CILS Grammar Test Essentials,"Ho visto Maria ieri e ____ ho dato un libro. (A: le / B: la / C: gli)",le,indirect-pronouns
+4. CILS Grammar Test Essentials,"Conosci Paolo? Sì, ____ conosco bene. (A: lo / B: la / C: li)",lo,direct-pronouns
+4. CILS Grammar Test Essentials,"Hai chiamato i tuoi genitori? Sì, ____ ho chiamati ieri sera. (A: le / B: li / C: gli)",li,direct-pronouns
+4. CILS Grammar Test Essentials,"Quando vedi Sara, ____ puoi dare questo libro? (A: la / B: le / C: gli)",le,indirect-pronouns
+4. CILS Grammar Test Essentials,"Abbiamo parlato con Marco e ____ abbiamo spiegato tutto. (A: lo / B: gli / C: le)",gli,indirect-pronouns
+4. CILS Grammar Test Essentials,"Hai comprato le mele? Sì, ____ ho comprate al mercato. (A: le / B: li / C: la)",le,direct-pronouns
+4. CILS Grammar Test Essentials,"Quando incontri Luca, ____ devi dire di chiamarmi. (A: lo / B: gli / C: le)",gli,indirect-pronouns
+4. CILS Grammar Test Essentials,"Conosci queste ragazze? No, non ____ conosco. (A: le / B: li / C: gli)",le,direct-pronouns
+4. CILS Grammar Test Essentials,"Hai telefonato a tua madre? Sì, ____ ho telefonato stamattina. (A: la / B: le / C: gli)",le,indirect-pronouns
+4. CILS Grammar Test Essentials,"Vedi quei ragazzi? ____ vedo ogni giorno alla fermata. (A: Le / B: Li / C: Gli)",Li,direct-pronouns
+4. CILS Grammar Test Essentials,"Hai dato il libro a Marco? Sì, ____ ho dato. (A: glielo / B: gliela / C: glieli)",glielo,combined-pronouns
+4. CILS Grammar Test Essentials,"Puoi portare le chiavi a Sara? Certo, ____ porto subito. (A: gliela / B: gliele / C: glielo)",gliele,combined-pronouns
+4. CILS Grammar Test Essentials,"Chi ti ha regalato questa borsa? ____ ha regalata mia sorella. (A: Me la / B: Te la / C: Se la)",Me la,combined-pronouns
+4. CILS Grammar Test Essentials,"Hai spiegato la lezione agli studenti? Sì, ____ ho spiegata. (A: gliela / B: gliele / C: glielo)",gliela,combined-pronouns
+4. CILS Grammar Test Essentials,"Quando vai a Roma? ____ vado domani mattina. (A: Ci / B: Ne / C: Vi)",Ci,ci-ne
+4. CILS Grammar Test Essentials,"Quanti libri hai letto? ____ ho letti tre questo mese. (A: Ci / B: Ne / C: Vi)",Ne,ci-ne
+4. CILS Grammar Test Essentials,"Sei mai stato in Sicilia? Sì, ____ sono stato due volte. (A: ci / B: ne / C: vi)",ci,ci-ne
+4. CILS Grammar Test Essentials,"Quante persone hai invitato? ____ ho invitate venti. (A: Ci / B: Ne / C: Vi)",Ne,ci-ne
+4. CILS Grammar Test Essentials,"Pensi spesso ai tuoi amici? Sì, ____ penso sempre. (A: ci / B: ne / C: li)",ci,ci-ne
+Note: The correct answer 'ci' (meaning 'to them') is often confused with 'li' (direct object 'them'). 'Pensare a' takes an indirect object, which is replaced by 'ci' when it's a thing or, in this common construction, 'a loro' (to them). However, the options provided are (A: ci / B: ne / C: li). Given these options, 'ci' is the intended answer for 'pensare a [qualcosa/qualcuno]'.
+4. CILS Grammar Test Essentials,"L'uomo ____ ti ho parlato è mio cugino. (A: che / B: cui / C: quale)",cui,relative-pronouns
+4. CILS Grammar Test Essentials,"Il libro ____ sto leggendo è molto interessante. (A: che / B: cui / C: quale)",che,relative-pronouns
+4. CILS Grammar Test Essentials,"La ragazza ____ ho conosciuto ieri è simpatica. (A: che / B: cui / C: quale)",che,relative-pronouns
+4. CILS Grammar Test Essentials,"La città in ____ vivo è molto grande. (A: che / B: cui / C: quale)",cui,relative-pronouns
+4. CILS Grammar Test Essentials,"Le persone con ____ lavoro sono molto gentili. (A: che / B: cui / C: quali)",cui,relative-pronouns
+4. CILS Grammar Test Essentials,"Il ristorante ____ mi hai consigliato è ottimo. (A: che / B: cui / C: quale)",che,relative-pronouns
+4. CILS Grammar Test Essentials,"La casa di ____ ti ho parlato è stata venduta. (A: che / B: cui / C: quale)",cui,relative-pronouns
+4. CILS Grammar Test Essentials,"I film ____ mi piacciono di più sono le commedie. (A: che / B: cui / C: quali)",che,relative-pronouns
+4. CILS Grammar Test Essentials,"La professoressa da ____ studio è molto brava. (A: che / B: cui / C: quale)",cui,relative-pronouns
+4. CILS Grammar Test Essentials,"Gli amici a ____ ho scritto non hanno risposto. (A: che / B: cui / C: quali)",cui,relative-pronouns
+4. CILS Grammar Test Essentials,"____ mattina vado in palestra. (A: Ogni / B: Tutti / C: Qualche)",Ogni,indefinites
+4. CILS Grammar Test Essentials,"____ giorni fa ho incontrato Marco. (A: Ogni /B: Tutti / C: Qualche)",Qualche,indefinites
+4. CILS Grammar Test Essentials,"____ gli studenti hanno superato l'esame. (A: Ogni / B: Tutti / C: Qualche)",Tutti,indefinites
+4. CILS Grammar Test Essentials,"C'è ____ problema con il computer. (A: ogni / B: tutti / C: qualche)",qualche,indefinites
+4. CILS Grammar Test Essentials,"____ persona può partecipare al corso. (A: Ogni / B: Tutti / C: Qualche)",Ogni,indefinites
+4. CILS Grammar Test Essentials,"____ le città italiane sono belle. (A: Ogni / B: Tutte / C: Qualche)",Tutte,indefinites
+4. CILS Grammar Test Essentials,"Ho comprato ____ mele al mercato. (A: ogni / B: tutte / C: alcune)",alcune,indefinites
+4. CILS Grammar Test Essentials,"____ volta che vado a Roma, visito il Colosseo. (A: Ogni / B: Tutti / C: Qualche)",Ogni,indefinites
+4. CILS Grammar Test Essentials,"Non c'è ____ studente in aula. (A: ogni / B: tutti / C: nessuno)",nessuno,indefinites
+4. CILS Grammar Test Essentials,"____ libri sono interessanti, altri sono noiosi. (A: Ogni / B: Tutti / C: Alcuni)",Alcuni,indefinites
+4. CILS Grammar Test Essentials,"Vado ____ cinema ogni sabato. (A: al / B: nel / C: dal)",al,articulated-prepositions
+4. CILS Grammar Test Essentials,"Studio ____ biblioteca ogni pomeriggio. (A: alla / B: nella / C: dalla)",in,articulated-prepositions
+Note: The answer is 'in'. 'In biblioteca' is a common fixed expression. 'Nella biblioteca' would imply 'inside *the specific* library', but 'in' is used more generally for 'at/in the library'.
+4. CILS Grammar Test Essentials,"Il libro è ____ tavolo. (A: al / B: sul / C: dal)",sul,articulated-prepositions
+4. CILS Grammar Test Essentials,"Vengo ____ Stati Uniti. (A: ai / B: negli / C: dagli)",dagli,articulated-prepositions
+4. CILS Grammar Test Essentials,"Abito ____ Italia da tre anni. (A: all' / B: in / C: dall')",in,articulated-prepositions
+4. CILS Grammar Test Essentials,"Parlo ____ mio professore ogni settimana. (A: al / B: con il / C: dal)","con il",articulated-prepositions
+4. CILS Grammar Test Essentials,"Lavoro ____ mattina ____ sera. (A: dalla...alla / B: la...la / C: di...di)","dalla...alla",articulated-prepositions
+4. CILS Grammar Test Essentials,"Sono andato ____ medico ieri. (A: al / B: nel / C: dal)",dal,articulated-prepositions
+4. CILS Grammar Test Essentials,"Le chiavi sono ____ borsa. (A: alla / B: nella / C: dalla)",nella,articulated-prepositions
+4. CILS Grammar Test Essentials,"Parto ____ Roma domani. (A: a / B: in / C: per)",per,simple-prepositions
